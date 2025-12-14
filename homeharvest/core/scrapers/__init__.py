@@ -84,14 +84,16 @@ class Scraper:
                     'Host': 'api.frontdoor.realtor.com',
                     'rdc-ab-test-client': 'ios_for_sale',
                     'Content-Type': 'application/json',
-                    'apollographql-client-version': '26.9.25-26.9.25.0774600',
+                    'apollographql-client-version': '27.15.0-27.15.0.0799000',
                     'Accept': '*/*',
                     'Accept-Language': 'en-US,en;q=0.9',
-                    'rdc-client-version': '26.9.25',
+                    'rdc-client-version': '27.15.0',
                     'X-APOLLO-OPERATION-TYPE': 'query',
                     'rdc-client-name': 'RDC_NATIVE_MOBILE-iPhone-com.move.Realtor',
                     'apollographql-client-name': 'com.move.Realtor-apollo-ios',
-                    'User-Agent': 'Realtor.com/26.9.25.0774600 CFNetwork/3860.200.71 Darwin/25.1.0',
+                    'User-Agent': 'Realtor.com/27.15.0.0799000 CFNetwork/1568.300.101 Darwin/24.1.0',
+                    'Accept-Encoding': 'gzip, deflate, br',
+                    'Connection': 'keep-alive',
                 }
             )
 
